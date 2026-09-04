@@ -1,4 +1,4 @@
-# 🏠 Global Airbnb Performance Dashboard
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/36c1773a-08bc-4d08-8868-1cbd076139ec" /># 🏠 Global Airbnb Performance Dashboard
 
 An interactive 3-page Power BI dashboard analyzing Airbnb's global performance across 10 major cities — covering listings, hosts, reviews, pricing, ratings, trust signals, and seasonality trends from 2008 to 2020.
 
@@ -72,21 +72,13 @@ Airbnb operates across dozens of global markets, but performance, pricing, and g
 
 ## 📷 Dashboard Pages
 
-| Page | Preview |
-|---|---|
-| Overview | `assets/overview.png` |
-| Ratings | `assets/ratings.png` |
-| Reviews & Trust | `assets/reviews.png` |
 
-*(Replace with actual screenshot files — see setup instructions below)*
 
 ---
 
 ## 🚀 How to View
-
-1. Download `Global_Airbnb_Dashboard.pbix` from this repo
+1. Download the `.pbix` file from Google Drive: **[Download PBIX File](https://drive.google.com/file/d/1lj0V0h61GRPFpNfsouQ7vDGY-NVRPUbb/view?usp=sharing)**
 2. Open in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-3. Or view the published version here: **[Live Dashboard Link]** *(add your Power BI Service publish link)*
 
 ---
 
