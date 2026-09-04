@@ -3,6 +3,12 @@
 An interactive 3-page Power BI dashboard analyzing Airbnb's global performance across 10 major cities — covering listings, hosts, reviews, pricing, ratings, trust signals, and seasonality trends from 2008 to 2020.
 
 ![Dashboard Preview](assets/overview.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d4c3b1d2-199b-467d-b450-8f4e4493e4de" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d28f7faa-ba8d-41e8-889c-e61848710a99" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0eb2af57-a701-4837-a4ce-9ac74a033b46" />
+
+
+
 
 ---
 
